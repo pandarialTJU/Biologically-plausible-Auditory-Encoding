@@ -1,4 +1,5 @@
 The Spike-TIMIT and Spike-TIDIGITS databases are stored in this link:
 https://drive.google.com/drive/folders/1KK9teB5YLHlB5ZeO-s_SF0xfCLWflQM5?usp=sharing
-
 The auditory spiking databases are encoded from the original datasets TIMIT https://catalog.ldc.upenn.edu/LDC93S1 and TIDIGITS https://catalog.ldc.upenn.edu/LDC93S10
+
+I have also uploaded the source code to encode TIMIT corpus into spikes: https://drive.google.com/file/d/1tBlr0Rkr6MIc0tV4eBMMAOliulgr-pBI/view?usp=sharing
